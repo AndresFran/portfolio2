@@ -571,8 +571,8 @@ a#logo {
 }
 
 .owl-carousel .owl-dots .owl-dot {
-    width: 12px;
-    height: 12px;
+    width: 50px;
+    height: 40px;
     margin: 0 5px;
     background: rgba(255, 255, 255, .2)
 }
@@ -858,7 +858,7 @@ textarea.form-control {
 .filled-bar-3 {
   position: absolute;
   z-index: 99;
-  width: 100%;
+  width: 95%;
   height: 6px;
   background-color: #fff;
   border-radius: 3px;
